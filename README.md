@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project is built using REACT and is deployed in an opensource cloud provider called [railway](https://railway.app/) .
+The app is deployed with the URL [https://react-todo-app-production-3786.up.railway.app/)
 ## Available Scripts
 
 In the project directory, you can run:
