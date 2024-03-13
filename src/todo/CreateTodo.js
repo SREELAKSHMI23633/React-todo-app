@@ -19,7 +19,7 @@ const CreateTodo = () => {
         e.preventDefault();
         var taskList = [...todoList,todo];
         setTodoList(taskList);
-        localStorage.setItem("todos",JSON.stringify(todoList));
+        localStorage.setItem("todos",JSON.stringify(taskList));
         console.log("Todo",todo);
         setTodo("");
     }
