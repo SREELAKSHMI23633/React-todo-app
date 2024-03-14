@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# TODO React App
+
+TODO app is used to CREATE tasks ,EDIT and DELETE .This has used very basic HTML and CSS and mainly focused on REACT
 
 This project is built using REACT and is deployed in an opensource cloud provider called [railway](https://railway.app/) .
 
