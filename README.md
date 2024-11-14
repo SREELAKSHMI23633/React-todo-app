@@ -2,10 +2,10 @@
 
 TODO app is used to CREATE tasks ,EDIT and DELETE .This has used very basic HTML and CSS and mainly focused on REACT
 
-This project is built using REACT and is deployed using github pages  (referred [https://www.linkedin.com/pulse/deploy-your-react-app-using-github-pages-anisul-haque-bhuiyan-cw9oc/)) .
+This project is built using REACT and is deployed using github pages  (referred https://www.linkedin.com/pulse/deploy-your-react-app-using-github-pages-anisul-haque-bhuiyan-cw9oc/) .
 
 ### APP DEPLOYED URL
-The app is deployed with the URL [https://sreelakshmi23633.github.io/React-todo-app/)
+The app is deployed with the URL https://sreelakshmi23633.github.io/React-todo-app/
 
 
 ## SCREENSHORTS
